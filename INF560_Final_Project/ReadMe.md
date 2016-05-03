@@ -1,4 +1,4 @@
-OPTIMAL TENANT MIX ANALYTICS
+## OPTIMAL TENANT MIX ANALYTICS
 
 The success of online stores can be attributed to the plethora of data which they collect on customer behavior. With an increase in the number of such stores, it is imperative for the retailers to step up their game and use a combination of statistical analytics and social WiFi capability, that helps the retailers to
 
